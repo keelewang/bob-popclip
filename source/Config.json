@@ -7,7 +7,7 @@
   "app": {
     "name": "Bob",
     "link": "https://bobtranslate.com/",
-    "bundleIdentifiers": ["com.hezongyidev.Bob"],
+    "bundleIdentifiers": ["com.hezongyidev.Bob", "com.ripperhe.Bob"],
     "checkInstalled": true
   },
   "applescriptFile": "Bob.applescript"
