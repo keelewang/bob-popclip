@@ -1,5 +1,11 @@
 # PopClip Extension For Bob
 
+默认的插件图标太吓人了，根据这个[issue](https://github.com/ripperhe/bob-popclip/issues/3)更换了图标
+
+![](source/Bob.png)
+
+---
+
 如果你是 [Bob](https://bobtranslate.com) 的用户，并且期望划词之后鼠标附近出现一个小图标，点击之后即可翻译选中的文本，则你的电脑上需要安装 [PopClip](https://pilotmoon.com/popclip)，并且给 PopClip 安装调用 Bob 的插件。
 
 ![bob-popclip](https://cdn.ripperhe.com/oss/master/2022/0508/translate_popclip.gif)
