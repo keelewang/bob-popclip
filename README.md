@@ -6,7 +6,7 @@
 
 **如何使用？**
 
-下载 [Bob.popclipextz](./extension/Bob.popclipextz)，打开即可安装
+下载 [Bob.popclipextz](https://github.com/keelewang/bob-popclip/releases/download/v2/Bob.popclipextz)，打开即可安装
 
 ---
 
